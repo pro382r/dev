@@ -1,3 +1,4 @@
 Pro rz
 
-g
+personal problem link: https://codeforces.com/problemset/page/3?order=BY_RATING_ASC
+
